@@ -125,6 +125,7 @@ text-align: center;
 .body_text{
   text-align: center;
   font-family: 'Hind Madurai', sans-serif;
+  font-style: italic;
   font-size: 150%;
   font-weight: 300;
   color: white;
